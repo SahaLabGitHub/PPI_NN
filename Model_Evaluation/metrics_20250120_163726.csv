@@ -1,0 +1,10 @@
+training_file,test_dataset,metrics
+top_48_PDBs.csv,Nanobody,"{'rmse': 1.9758251669338878, 'r2_ann': -0.1679990746840918, 'pearson_ann': 0.10946739940395236}"
+top_48_PDBs.csv,PDBind,"{'rmse': 1.9473835135882573, 'r2_ann': -0.033531133283349224, 'pearson_ann': -0.025637989152247777}"
+top_48_PDBs.csv,Nazmul,"{'rmse': 3.1059161100429424, 'r2_ann': -0.058635253433007684, 'pearson_ann': 0.1780257442394184}"
+top_106_PDBs.csv,Nanobody,"{'rmse': 2.390797787405244, 'r2_ann': -0.7101380237769239, 'pearson_ann': -0.3348825916741826}"
+top_106_PDBs.csv,PDBind,"{'rmse': 2.143594411774502, 'r2_ann': -0.25229261055820684, 'pearson_ann': -0.06717005126610796}"
+top_106_PDBs.csv,Nazmul,"{'rmse': 3.3024824234198866, 'r2_ann': -0.19687263989615866, 'pearson_ann': -0.029402827519418775}"
+top_153_PDBs.csv,Nanobody,"{'rmse': 2.047935434745503, 'r2_ann': -0.25481006595216726, 'pearson_ann': -0.0033008354782220893}"
+top_153_PDBs.csv,PDBind,"{'rmse': 1.934091969647156, 'r2_ann': -0.019470889062602303, 'pearson_ann': 0.03764486436157927}"
+top_153_PDBs.csv,Nazmul,"{'rmse': 3.0240338555548645, 'r2_ann': -0.0035527549803000547, 'pearson_ann': 0.5121412344846789}"
