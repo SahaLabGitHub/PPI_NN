@@ -1,0 +1,41 @@
+Energy term	Description
+dslf_fa13	Disulfide geometry potential
+hbond_bb_sc	Energy of backbone-side chain hydrogen bonding
+hbond_lr_bb	Energy of long-range hydrogen bonding
+p_aa_pp	Probability of amino acid at φ, ψ
+lk_ball_wtd	Orientation-dependent solvation of polar atoms
+hbond_sc	Energy of side chain to side chain hydrogen bonding
+fa_atr	Attractive energy between two atoms on different residues separated by a given distance
+fa_elec	Coulombic potential energy for two atoms separated by a given distance
+complex_normalized	Average energy of a residue in the entire complex
+total_score	Relative folding free energy
+side1_score	Folding energy of the first interface
+omega	Omega dihedral in the backbone
+side2_score	Folding energy of the second interface
+fa_rep	Lennard-Jones repulsive between atoms in different residues
+sc	Shape complementarity
+dg_cross	Interaction energy
+pro_close	Proline ring closure energy
+dg_separated	Binding free energy
+side2_normalized	Average per-residue energy on the second interface
+fa_dun	Probability of a chosen rotamer is native-like conformation given backbone φ, ψangles
+ddg	Change in the binding free energy
+per_residue_energy_int	Average energy of each residue at the interface
+fa_intra_rep	Intra-residue repulsive component
+hbond_sr_bb	Energy of short-range hydrogen bonding
+side1_normalized	Average per-residue energy on the first interface
+dg_separated/dsasax100	Binding free energy divided by the total solvent accessible surface area multiplied by 100
+dg_cross/dsasax100	Interaction energy divided by the total solvent accessible surface area multiplied by 100
+fa_intra_sol_xover4	Gaussian exclusion implicit solvation energy
+hbond_e_fraction	Contribution of the hydrogen bonding potentials to the binding energy
+rama_prepro	Backbone torsion preference term
+fa_sol	Gaussian exclusion implicit solvation energy
+nres_all	Total number of residues
+ref	Reference energy for each amino acid relatively to unfolding
+hbonds_int	Number of hydrogen bonds in the interface
+delta_unsathbonds	Number of buried hydrogen bonds in the interface
+dsasa_polar	Polar solvent accessible surface area
+dsasa_hphobic	Hydrophobic solvent accessible surface area
+nres_int	Number of residues in the interface
+dsasa_int	Total solvent accessible surface area
+sc_int_area	Shape complementarity divided by interface area
